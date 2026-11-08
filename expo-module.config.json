@@ -1,0 +1,9 @@
+{
+  "platforms": ["apple", "android"],
+  "apple": {
+    "modules": ["SecureAuthModule"]
+  },
+  "android": {
+    "modules": ["expo.modules.secureauth.SecureAuthModule"]
+  }
+}
